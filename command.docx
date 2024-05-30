@@ -1,0 +1,12 @@
+php artisan migrate:fresh
+--comand use for update the database insert column base on the inserted in migratation
+
+php artisan serve
+-- to able run the database by itself
+
+php artisan make:controler --UserController
+-- for be able to create a controler in app
+
+php artisan make migratation: create_users_table
+-- noted
+always this must in plural form
